@@ -1,7 +1,3 @@
-<!-- default badges list -->
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E2103)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -11,9 +7,6 @@
 * [Global.asax](./CS/WebSite/Global.asax) (VB: [Global.asax](./VB/WebSite/Global.asax))
 <!-- default file list end -->
 # How to display and edit persistent objects with many-to-many association in ASPxGridView
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2103)**
-<!-- run online end -->
 
 
 <p>This example was created for the ASPxGridView control based on the Knowledge Base article for the XtraGrid: <a href="https://www.devexpress.com/Support/Center/p/A920">How to display and edit persistent objects with a many-to-many association in the XtraGrid</a>.</p>
